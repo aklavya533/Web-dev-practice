@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+body{
+    margin: 5px 10px;
+}
+nav{
+    border: 5px solid white;
+    background-color: #0f1111;
+}
+nav ul li{
+    display: inline;
+}
+li #logo{
+    font-size: 25px;
+    color: #f08804;
+}
+a{
+    text-decoration: none;
+}
+li{
+
+}
+button{
+    background-color: #f08804;
+    color: white;
+    padding: 3px;
+}
